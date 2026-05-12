@@ -28,4 +28,5 @@
 *  Het systeem bevat invoervalidatie, waarbij booleaanse logica wordt gebruikt om visuele waarschuwingen te geven (via Kleurcodering) wanneer een invoer de quotumregels overtreedt. Dit waarborgt de nauwkeurigheid van de gegevens tijdens de financiële afstemming.
 
 *  ## Dashboard Preview
-*  
+
+  ![Dashboard](dashboard.png)
