@@ -1,7 +1,7 @@
 # Management Dashboard for Club Consumption (Excel)
 
 ## 🇧🇷 Português
-**Descrição:**Sistema de gestão de consumo desenvolvido para conciliação financeira entre um clube e fornecedores. O projeto foca em automatizar a regra de negócio de "Cotas de Aluguel" vs "Excedentes".
+**Descrição:** Sistema de gestão de consumo desenvolvido para conciliação financeira entre um clube e fornecedores. O projeto foca em automatizar a regra de negócio de "Cotas de Aluguel" vs "Excedentes".
 *   **Destaques Técnicos:** Validação de dados, Formatação Condicional lógica e Dashboards de KPIs.
 
 ## 🇺🇸 English
